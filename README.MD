@@ -4,6 +4,7 @@
 <p align="center">
   <img src="https://github.com/thohemp/archive/blob/main/6drepnet360.gif" alt="animated" />
 </p>
+
 ## Overview
 
 This is a PyTorch implementation of 6DRepNet360 specified in 
