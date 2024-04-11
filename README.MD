@@ -8,8 +8,15 @@
 ## Overview
 
 This is a PyTorch implementation of 6DRepNet360 specified in 
-["Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation"](https://arxiv.org/abs/2309.07654) 
-, arXiv 2023
+["Towards Robust and Unconstrained Full Range of Rotation Head Pose Estimation"](https://ieeexplore.ieee.org/document/10477888) 
+,  IEEE Transactions on Image Processing 2024
+
+## Models
+|Model| Description|Download|
+|---|---|---|
+|6DRepNet360 Full Rotation | Fine-tuned on 300W-LP + Panoptic|  [Download](https://cloud.ovgu.de/s/TewGC9TDLGgKkmS/download/6DRepNet360_Full-Rotation_300W_LP+Panoptic.pth)
+|6DRepNet360 | Fine-tuned on 300W-LP | [Download](https://cloud.ovgu.de/s/wWCitDxp9t79xkP/download/6DRepNet360_300W_LP.pth)
+
 
 ## Usage
 
