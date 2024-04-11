@@ -137,7 +137,7 @@ if __name__ == '__main__':
 
     # Load snapshot
     if snapshot_path=='':
-        saved_state_dict = load_state_dict_from_url("https://cloud.ovgu.de/s/2sP3yLrEwyfSmqC/download/6DRepNet360_300W_LP_AFLW2000.pth")    
+        saved_state_dict = load_state_dict_from_url("https://cloud.ovgu.de/s/TewGC9TDLGgKkmS/download/6DRepNet360_Full-Rotation_300W_LP+Panoptic.pth")    
     else:
         saved_state_dict = torch.load(snapshot_path)
 
@@ -145,6 +145,7 @@ if __name__ == '__main__':
         model.load_state_dict(saved_state_dict['model_state_dict'])
     else:
         model.load_state_dict(saved_state_dict)  
+    
     model.cuda(gpu)
 
     # Test the Model
