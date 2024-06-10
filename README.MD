@@ -1,4 +1,6 @@
-
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-robust-and-unconstrained-full-range/head-pose-estimation-on-biwi)](https://paperswithcode.com/sota/head-pose-estimation-on-biwi?p=towards-robust-and-unconstrained-full-range)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-robust-and-unconstrained-full-range/head-pose-estimation-on-cmu-panoptic-300w-lp)](https://paperswithcode.com/sota/head-pose-estimation-on-cmu-panoptic-300w-lp?p=towards-robust-and-unconstrained-full-range)
+[![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/towards-robust-and-unconstrained-full-range/head-pose-estimation-on-aflw2000)](https://paperswithcode.com/sota/head-pose-estimation-on-aflw2000?p=towards-robust-and-unconstrained-full-range)
 # <div align="center"> **6DRepNet360** </div>
 
 <p align="center">
